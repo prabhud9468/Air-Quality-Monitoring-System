@@ -1,3 +1,7 @@
+Link to view project on webpage
+http://airqualitymonitoringbmsce.epizy.com
+
+
 ************Intructions for initial setup**************
 
 Before uploading firmeware must need to reset the device.
