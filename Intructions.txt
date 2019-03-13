@@ -4,13 +4,13 @@ http://airqualitymonitoringbmsce.epizy.com
 
 ************Intructions for initial setup**************
 
-Before uploading firmeware must need to reset the device.
-By long press and holding it of flash button untill reset button pressed and realse.
-Then the device is go to the flash mode.
-Finaly Device is ready to flash.
-Then flashing procedure following the following references.
-Press Reset button 
-Then ready to program
+1.Before uploading firmeware must need to reset the device.
+2.By long press and holding it of flash button untill reset button pressed and realse.
+3.Then the device is go to the flash mode.
+4.Finaly Device is ready to flash.
+5.Then flashing procedure following the following references.
+6.Press Reset button 
+7.Then ready to program
 
 Best references is :
 1) https://roboindia.com/tutorials/Flash-esp8266-with-nodemcu-firmware
