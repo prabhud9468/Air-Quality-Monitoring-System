@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-18T02:48:07</date>
+  <millis>1545081487233</millis>
+  <sequence>5</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Load saved settings: Firmware:NodeMCU</message>
+</record>
+<record>
+  <date>2018-12-18T02:48:07</date>
+  <millis>1545081487280</millis>
+  <sequence>6</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2018-12-18T02:48:07</date>
+  <millis>1545081487296</millis>
+  <sequence>7</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2018-12-18T02:48:07</date>
+  <millis>1545081487358</millis>
+  <sequence>8</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Set new color theme: Success.</message>
+</record>
+<record>
+  <date>2018-12-18T02:48:07</date>
+  <millis>1545081487358</millis>
+  <sequence>9</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Load saved settings: DONE.</message>
+</record>
+<record>
+  <date>2018-12-18T02:48:07</date>
+  <millis>1545081487358</millis>
+  <sequence>10</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2018-12-18T02:48:07</date>
+  <millis>1545081487358</millis>
+  <sequence>11</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2018-12-18T02:48:07</date>
+  <millis>1545081487843</millis>
+  <sequence>12</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2018-12-18T02:48:07</date>
+  <millis>1545081487858</millis>
+  <sequence>13</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>found last saved serial port COM6</message>
+</record>
+<record>
+  <date>2018-12-18T02:48:07</date>
+  <millis>1545081487858</millis>
+  <sequence>14</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2018-12-18T02:48:37</date>
+  <millis>1545081517749</millis>
+  <sequence>15</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Serial port COM6 save as default.</message>
+</record>
+<record>
+  <date>2018-12-18T02:48:37</date>
+  <millis>1545081517749</millis>
+  <sequence>16</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Baud rate 115200 save as default.</message>
+</record>
+<record>
+  <date>2018-12-18T02:48:37</date>
+  <millis>1545081517749</millis>
+  <sequence>17</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Try to open port COM6, baud 115200, 8N1</message>
+</record>
+<record>
+  <date>2018-12-18T02:48:37</date>
+  <millis>1545081517820</millis>
+  <sequence>18</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Open port COM6 - Success.</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:21</date>
+  <millis>1545081561401</millis>
+  <sequence>19</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:node.restart()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:21</date>
+  <millis>1545081561401</millis>
+  <sequence>20</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Try to reconnect with saved baud 115200...</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:21</date>
+  <millis>1545081561417</millis>
+  <sequence>21</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Reconnect: Success. Now we waiting for ESP reboot...</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:23</date>
+  <millis>1545081563276</millis>
+  <sequence>22</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:node.restart()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:23</date>
+  <millis>1545081563276</millis>
+  <sequence>23</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Try to reconnect with saved baud 115200...</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:23</date>
+  <millis>1545081563276</millis>
+  <sequence>24</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Reconnect: Success. Now we waiting for ESP reboot...</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:23</date>
+  <millis>1545081563433</millis>
+  <sequence>25</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Try to reconnect with baud 115200...</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:23</date>
+  <millis>1545081563433</millis>
+  <sequence>26</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:print(uart.setup(0, 115200, 8, 0, 1, 1 ))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:23</date>
+  <millis>1545081563636</millis>
+  <sequence>27</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Reconnect: Success.</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:25</date>
+  <millis>1545081565292</millis>
+  <sequence>28</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>ERROR: Communication with MCU not established.</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:34</date>
+  <millis>1545081574417</millis>
+  <sequence>29</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:print(node.chipid())&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:41</date>
+  <millis>1545081581542</millis>
+  <sequence>30</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:node.restart()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:41</date>
+  <millis>1545081581542</millis>
+  <sequence>31</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Try to reconnect with saved baud 115200...</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:41</date>
+  <millis>1545081581558</millis>
+  <sequence>32</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Reconnect: Success. Now we waiting for ESP reboot...</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:43</date>
+  <millis>1545081583370</millis>
+  <sequence>33</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:node.restart()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:43</date>
+  <millis>1545081583370</millis>
+  <sequence>34</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Try to reconnect with saved baud 115200...</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:43</date>
+  <millis>1545081583370</millis>
+  <sequence>35</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Reconnect: Success. Now we waiting for ESP reboot...</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:43</date>
+  <millis>1545081583573</millis>
+  <sequence>36</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Try to reconnect with baud 115200...</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:43</date>
+  <millis>1545081583573</millis>
+  <sequence>37</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:print(uart.setup(0, 115200, 8, 0, 1, 1 ))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:43</date>
+  <millis>1545081583777</millis>
+  <sequence>38</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Reconnect: Success.</message>
+</record>
+<record>
+  <date>2018-12-18T02:49:45</date>
+  <millis>1545081585386</millis>
+  <sequence>39</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>ERROR: Communication with MCU not established.</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:02</date>
+  <millis>1545081602277</millis>
+  <sequence>40</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:04</date>
+  <millis>1545081604277</millis>
+  <sequence>41</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:05</date>
+  <millis>1545081605449</millis>
+  <sequence>42</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:06</date>
+  <millis>1545081606371</millis>
+  <sequence>43</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:07</date>
+  <millis>1545081607636</millis>
+  <sequence>44</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT+RST&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:10</date>
+  <millis>1545081610089</millis>
+  <sequence>45</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT+GMR&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:13</date>
+  <millis>1545081613605</millis>
+  <sequence>46</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT+GMR&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:18</date>
+  <millis>1545081618855</millis>
+  <sequence>47</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT+CIPSTATUS&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:22</date>
+  <millis>1545081622105</millis>
+  <sequence>48</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT+CIPMUX?&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:23</date>
+  <millis>1545081623918</millis>
+  <sequence>49</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT+CIPMUX=1&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:25</date>
+  <millis>1545081625683</millis>
+  <sequence>50</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT+CIPMUX=0&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:28</date>
+  <millis>1545081628230</millis>
+  <sequence>51</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT+CIFSR&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:32</date>
+  <millis>1545081632668</millis>
+  <sequence>52</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT+CIPSTATUS&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:34</date>
+  <millis>1545081634433</millis>
+  <sequence>53</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT+CIPMUX?&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:36</date>
+  <millis>1545081636918</millis>
+  <sequence>54</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT+CIPMODE=0&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:39</date>
+  <millis>1545081639027</millis>
+  <sequence>55</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT+CIPMODE?&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:41</date>
+  <millis>1545081641277</millis>
+  <sequence>56</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT+CIPMODE=1&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:43</date>
+  <millis>1545081643324</millis>
+  <sequence>57</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT+CIPSTO?&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:45</date>
+  <millis>1545081645793</millis>
+  <sequence>58</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT+RST&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:48</date>
+  <millis>1545081648074</millis>
+  <sequence>59</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT+GMR&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:50</date>
+  <millis>1545081650934</millis>
+  <sequence>60</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:ATE0&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:56</date>
+  <millis>1545081656496</millis>
+  <sequence>61</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:ATE1&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:50:59</date>
+  <millis>1545081659606</millis>
+  <sequence>62</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT+CIUPDATE&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:18</date>
+  <millis>1545081678465</millis>
+  <sequence>63</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>DataSender: start "Smart Mode"</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:18</date>
+  <millis>1545081678465</millis>
+  <sequence>64</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>SendToESP: Starting...</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:18</date>
+  <millis>1545081678497</millis>
+  <sequence>65</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>0</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:18</date>
+  <millis>1545081678497</millis>
+  <sequence>66</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:18</date>
+  <millis>1545081678528</millis>
+  <sequence>67</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>27</thread>
+  <message>recv:</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:18</date>
+  <millis>1545081678543</millis>
+  <sequence>68</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>27</thread>
+  <message>Operation done. Duration = 78 ms</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:23</date>
+  <millis>1545081683136</millis>
+  <sequence>69</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:node.restart()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:23</date>
+  <millis>1545081683136</millis>
+  <sequence>70</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Try to reconnect with saved baud 115200...</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:23</date>
+  <millis>1545081683136</millis>
+  <sequence>71</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Reconnect: Success. Now we waiting for ESP reboot...</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:24</date>
+  <millis>1545081684541</millis>
+  <sequence>72</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:node.restart()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:24</date>
+  <millis>1545081684541</millis>
+  <sequence>73</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Try to reconnect with saved baud 115200...</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:24</date>
+  <millis>1545081684541</millis>
+  <sequence>74</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Reconnect: Success. Now we waiting for ESP reboot...</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:25</date>
+  <millis>1545081685166</millis>
+  <sequence>75</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Try to reconnect with baud 115200...</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:25</date>
+  <millis>1545081685166</millis>
+  <sequence>76</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:print(uart.setup(0, 115200, 8, 0, 1, 1 ))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:25</date>
+  <millis>1545081685369</millis>
+  <sequence>77</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Reconnect: Success.</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:25</date>
+  <millis>1545081685474</millis>
+  <sequence>78</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>ERROR: Communication with MCU not established.</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:26</date>
+  <millis>1545081686552</millis>
+  <sequence>79</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>ERROR: Communication with MCU not established.</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:27</date>
+  <millis>1545081687051</millis>
+  <sequence>80</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>ERROR: Communication with MCU not established.</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:28</date>
+  <millis>1545081688410</millis>
+  <sequence>81</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Operation done. Duration = 9945 ms</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:28</date>
+  <millis>1545081688410</millis>
+  <sequence>82</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Waiting answer from ESP - Timeout reached. Command aborted.</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:35</date>
+  <millis>1545081695428</millis>
+  <sequence>83</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:38</date>
+  <millis>1545081698460</millis>
+  <sequence>84</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>sending:AT&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:41</date>
+  <millis>1545081701431</millis>
+  <sequence>85</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Close port COM6 - Success.</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:49</date>
+  <millis>1545081709134</millis>
+  <sequence>86</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>FileTab cleared: Success.</message>
+</record>
+<record>
+  <date>2018-12-18T02:51:49</date>
+  <millis>1545081709134</millis>
+  <sequence>87</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>File close: Success.</message>
+</record>
+</log>

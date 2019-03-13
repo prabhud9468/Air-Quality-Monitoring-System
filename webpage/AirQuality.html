@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"> 
+    <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+
+<div class="container-fluid">
+
+<div class="row">
+	<div class="col-lg-4"><h2>Online Air Quality Monitoring</h2></div>
+		<div class="col-lg-8 text-right"><h4>“Danger! Move to fresh Air”</h4></div>
+
+</div>
+
+<nav class="navbar navbar-default">
+	<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainnavbar">
+	<span class="icon-bar"></span>
+	<span class="icon-bar"></span>
+	<span class="icon-bar"></span>
+</button>
+		<a class="navbar-brand" href="#">Online Air Quality Monitoring</a>
+	</div>
+<ul class="nav navbar-nav collapse navbar-collapse" id="mainnavbar"">
+	<li><a href="index.html">Polluted Percentage View</a></li>
+	<!-- <li><a href="#">Home</a></li> -->
+	<li><a href="index.html">Polluted Parts Per Million View</a></li>
+	<li><a href="index.html">Polluted Gauge View</a></li>
+	<li><a href="index.html">Polluted Lamp View</a></li>
+</ul>
+<ul class="nav navbar-nav navbar-right collapse navbar-collapse" id="mainnavbar">
+	<li><a href="register.html"><span class="glyphicon glyphicon-user"></span>Sign Up</a></li>
+		<li><a href="login.html"><span class="glyphicon glyphicon-user"></span>Login</a></li>
+</ul>
+</nav>
+
+
+	<div class="jumbotron">
+	
+
+	<div class="row">
+    <div class="col-sm-6"><h3>Polluted Percentage View</h3>
+	<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/635505/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15"></iframe></div>
+    <div class="col-sm-6""><h3>Polluted Parts Per Million View</h3>
+	<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/635505/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15"></iframe>
+    
+  </div>
+</div>
+  <div class="row">
+    <div class="col-sm-6"><h3>Polluted Gauge View</h3>
+	<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/635505/widgets/23415"></iframe></div>
+    <div class="col-sm-6""><h3>Polluted Lamp View</h3>
+	<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/635505/widgets/28208"></iframe>
+	<p>Lamp will turn to red color once polluted air is more than 50%.</p>
+    
+  </div>
+	</div>
+
+   <div class="page-footer">
+  <h5 style="text-align: center;">BMSCE COPYRIGHTS RESERVED.</h5>
+  </div>
+
+    
+
+</body>
+</html>
